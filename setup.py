@@ -14,7 +14,7 @@ with open(path.join(path.abspath(path.dirname(__file__)), 'README.md'),
 
 
 setup(
-    name='Django_Gtts',
+    name='Django-Gtts',
     version='0.4',
     packages=find_packages(),
     url='https://github.com/mrf345/django_gtts/',
